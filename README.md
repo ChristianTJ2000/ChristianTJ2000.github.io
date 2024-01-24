@@ -18,6 +18,5 @@ Bachelor of Science in Marketing Research & Minor in Data Analytics (2019 - 2021
 ## Connect with Me
 - **Email:** [christian-jackson@uiowa.edu](mailto:christian-jackson@uiowa.edu)
 - **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/christiantreyjackson/)
-- **Resume:** [View Resume](/path/to/your/resume.pdf) <!-- Replace with the actual path to your resume -->
 
 <!-- Add more buttons or links as needed -->
